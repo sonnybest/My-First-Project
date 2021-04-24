@@ -1,2 +1,2 @@
-# My-First-Project
-This is the repo for my first data science project
+# NumPy Tutorial
+This is a repo for about NumPy Library
