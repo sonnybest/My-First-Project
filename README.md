@@ -1,6 +1,5 @@
 # NumPy
 
-Jupyter Notebook &amp; Data Associated with my Tutorial video on the Python NumPy Library
+Jupyter Notebook &amp; Data Associated with the Python NumPy Library
 
-Video Link:
-https://youtu.be/GB9ByFAIAH4
+
